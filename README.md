@@ -16,7 +16,16 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 # Latest YouTube Videos
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pUCLZM7bIeo"><img width="140px" src="https://i.ytimg.com/vi/pUCLZM7bIeo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=pUCLZM7bIeo">Linked List Cycle - Leetcode 141 - Python</a><br/>Jan 6, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=GUNCmxxXUCo"><img width="140px" src="https://i.ytimg.com/vi/GUNCmxxXUCo/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GUNCmxxXUCo">Container With Most Water - Leetcode 11 - Python</a><br/>Jan 4, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-mIrsfUGnmk"><img width="140px" src="https://i.ytimg.com/vi/-mIrsfUGnmk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-mIrsfUGnmk">Maximum Product Subarray - Leetcode 152 - Python</a><br/>Jan 2, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=8Asizd7FSGE"><img width="140px" src="https://i.ytimg.com/vi/8Asizd7FSGE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8Asizd7FSGE">Python Tutorial for Beginners &lpar;Part 7&rpar; - Dictionaries and Importing Modules</a><br/>Dec 29, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=knVrZU0iz9Q"><img width="140px" src="https://i.ytimg.com/vi/knVrZU0iz9Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=knVrZU0iz9Q">Python Tutorial for Beginners &lpar;Part 6&rpar; - Lists and Tuples</a><br/>Dec 28, 2022</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 How To Reach Me
