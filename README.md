@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16C300&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Ryo.)](https://git.io/typing-svg)
 
-# About Me
+# :raised_hand: About Me
 * 💻 Full-stack developer and software engineer
 * 🎓 Recent Computer Science graduate of the University of California, Merced
-* 🛠️ I enjoy learning how to build by breaking things apart
+* 🛠️ I enjoy learning how to build things by breaking them apart
 
 # 💻 Technology Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -40,20 +40,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 How To Reach Me
+![]()<a href="https://ryowright.github.io/MyPortfolio/"><img src="./portfolioicon.png" alt="Portfolio Icon"></a>
 ![]()<a href="https://www.linkedin.com/in/ryo-wright/"><img src="./linkedinicon.svg" alt="LinkeIn Icon"></a>
 ![]()<a href="https://www.youtube.com/@SWEwithRyo"><img src="./youtubeicon.svg" alt="YouTube Icon"></a>
-
-<!--
-**ryowright/ryowright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
