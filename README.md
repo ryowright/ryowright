@@ -18,6 +18,14 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+# :telescope: What I'm Up To
+### :wrench: I'm currently working on...
+* Creating a full-stack <a href="https://github.com/ryowright/LinkedIn-Clone">LinkedIn Clone</a>
+* Solving <a href="https://www.youtube.com/playlist?list=PLON94Wn6Xl0EbvchLmiifLGOiQ2TP0dcr">Leetcode Blind 75</a> on my YouTube channel
+### :books: I'm currently learning...
+* <a href="https://www.educative.io/path/deep-dive-into-system-design-interview">Deep Dive Into System Design Interview</a> on Educative.io
+* <a href="https://www.educative.io/module/advanced-concepts-in-python">Advanced Concepts in Python</a> on Educative.io
+
 # 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pUCLZM7bIeo"><img width="140px" src="https://i.ytimg.com/vi/pUCLZM7bIeo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pUCLZM7bIeo">Linked List Cycle - Leetcode 141 - Python</a><br/>Jan 6, 2023</td></tr></table>
@@ -32,8 +40,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 How To Reach Me
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryowright&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![]()<a href="https://www.linkedin.com/in/ryo-wright/"><img src="./linkedinicon.svg" alt="LinkeIn Icon"></a>
+![]()<a href="https://www.youtube.com/@SWEwithRyo"><img src="./youtubeicon.svg" alt="YouTube Icon"></a>
 
 <!--
 **ryowright/ryowright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,9 +56,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-TO ADD:
-- Banner Picture
-- Github Readme stats
-- 
 -->
