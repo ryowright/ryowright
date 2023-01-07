@@ -20,11 +20,11 @@
 
 # :telescope: What I'm Up To
 ### :wrench: I'm currently working on...
-* Creating a full-stack <a href="https://github.com/ryowright/LinkedIn-Clone">LinkedIn Clone</a>
-* Solving <a href="https://www.youtube.com/playlist?list=PLON94Wn6Xl0EbvchLmiifLGOiQ2TP0dcr">Leetcode Blind 75</a> on my YouTube channel
+* Creating a full-stack <a href="https://github.com/ryowright/LinkedIn-Clone" target="_blank" rel="noopener noreferrer">LinkedIn Clone</a>
+* Solving <a href="https://www.youtube.com/playlist?list=PLON94Wn6Xl0EbvchLmiifLGOiQ2TP0dcr" target="_blank" rel="noopener noreferrer">Leetcode Blind 75</a> on my YouTube channel
 ### :books: I'm currently learning...
-* <a href="https://www.educative.io/path/deep-dive-into-system-design-interview">Deep Dive Into System Design Interview</a> on Educative.io
-* <a href="https://www.educative.io/module/advanced-concepts-in-python">Advanced Concepts in Python</a> on Educative.io
+* <a href="https://www.educative.io/path/deep-dive-into-system-design-interview" target="_blank" rel="noopener noreferrer">Deep Dive Into System Design Interview</a> on Educative.io
+* <a href="https://www.educative.io/module/advanced-concepts-in-python" target="_blank" rel="noopener noreferrer">Advanced Concepts in Python</a> on Educative.io
 
 # 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pUCLZM7bIeo"><img width="140px" src="https://i.ytimg.com/vi/pUCLZM7bIeo/mqdefault.jpg"></a></td>
@@ -40,6 +40,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 How To Reach Me
-![]()<a href="https://ryowright.github.io/MyPortfolio/"><img src="./portfolioicon.png" alt="Portfolio Icon"></a>
-![]()<a href="https://www.linkedin.com/in/ryo-wright/"><img src="./linkedinicon.svg" alt="LinkeIn Icon"></a>
-![]()<a href="https://www.youtube.com/@SWEwithRyo"><img src="./youtubeicon.svg" alt="YouTube Icon"></a>
+![]()<a href="https://ryowright.github.io/MyPortfolio/" target="_blank" rel="noopener noreferrer"><img src="./portfolioicon.png" alt="Portfolio Icon"></a>
+![]()<a href="https://www.linkedin.com/in/ryo-wright/" target="_blank" rel="noopener noreferrer"><img src="./linkedinicon.svg" alt="LinkeIn Icon"></a>
+![]()<a href="https://www.youtube.com/@SWEwithRyo" target="_blank" rel="noopener noreferrer"><img src="./youtubeicon.svg" alt="YouTube Icon"></a>
