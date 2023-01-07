@@ -39,7 +39,7 @@
 <td><a href="https://www.youtube.com/watch?v=knVrZU0iz9Q">Python Tutorial for Beginners &lpar;Part 6&rpar; - Lists and Tuples</a><br/>Dec 28, 2022</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
-# 📫 How To Reach Me
+# 📫 Where To Reach Me
 ![]()<a href="https://ryowright.github.io/MyPortfolio/" target="_blank" rel="noopener noreferrer"><img src="./portfolioicon.png" alt="Portfolio Icon"></a>
 ![]()<a href="https://www.linkedin.com/in/ryo-wright/" target="_blank" rel="noopener noreferrer"><img src="./linkedinicon.svg" alt="LinkeIn Icon"></a>
 ![]()<a href="https://www.youtube.com/@SWEwithRyo" target="_blank" rel="noopener noreferrer"><img src="./youtubeicon.svg" alt="YouTube Icon"></a>
