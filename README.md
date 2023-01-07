@@ -1,8 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=16C300&width=435&lines=%F0%9F%91%8B+Hi+there!+I'm+Ryo.)](https://git.io/typing-svg)
 
 # About Me
+* 💻 Full-stack developer and software engineer
+* 🎓 Recent Computer Science graduate of the University of California, Merced
+* 🛠️ I enjoy learning how to build by breaking things apart
 
-# Technology Stack
+# 💻 Technology Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,7 +18,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# Latest YouTube Videos
+# 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=pUCLZM7bIeo"><img width="140px" src="https://i.ytimg.com/vi/pUCLZM7bIeo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pUCLZM7bIeo">Linked List Cycle - Leetcode 141 - Python</a><br/>Jan 6, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GUNCmxxXUCo"><img width="140px" src="https://i.ytimg.com/vi/GUNCmxxXUCo/mqdefault.jpg"></a></td>
@@ -30,9 +33,6 @@
 
 # 📫 How To Reach Me
 
-<!--
-[![Ryo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryowright&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryowright&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
