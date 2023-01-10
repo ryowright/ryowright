@@ -27,7 +27,9 @@
 * <a href="https://www.educative.io/module/advanced-concepts-in-python" target="_blank" rel="noopener noreferrer">Advanced Concepts in Python</a> on Educative.io
 
 # 📺 Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9mew5FHq260"><img width="140px" src="https://i.ytimg.com/vi/9mew5FHq260/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=NGZ8ef8Q_hE"><img width="140px" src="https://i.ytimg.com/vi/NGZ8ef8Q_hE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NGZ8ef8Q_hE">Merge K Sorted Lists - Leetcode 23 - Python</a><br/>Jan 10, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=9mew5FHq260"><img width="140px" src="https://i.ytimg.com/vi/9mew5FHq260/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9mew5FHq260">Merge Two Sorted Lists - Leetcode 21 - Python</a><br/>Jan 9, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=pUCLZM7bIeo"><img width="140px" src="https://i.ytimg.com/vi/pUCLZM7bIeo/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pUCLZM7bIeo">Linked List Cycle - Leetcode 141 - Python</a><br/>Jan 6, 2023</td></tr></table>
@@ -35,8 +37,6 @@
 <td><a href="https://www.youtube.com/watch?v=GUNCmxxXUCo">Container With Most Water - Leetcode 11 - Python</a><br/>Jan 4, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-mIrsfUGnmk"><img width="140px" src="https://i.ytimg.com/vi/-mIrsfUGnmk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-mIrsfUGnmk">Maximum Product Subarray - Leetcode 152 - Python</a><br/>Jan 2, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=8Asizd7FSGE"><img width="140px" src="https://i.ytimg.com/vi/8Asizd7FSGE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8Asizd7FSGE">Python Tutorial for Beginners &lpar;Part 7&rpar; - Dictionaries and Importing Modules</a><br/>Dec 29, 2022</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Where To Reach Me
