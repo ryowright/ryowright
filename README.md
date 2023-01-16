@@ -27,7 +27,9 @@
 * <a href="https://www.educative.io/module/advanced-concepts-in-python" target="_blank" rel="noopener noreferrer">Advanced Concepts in Python</a> on Educative.io
 
 # 📺 Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=I80iaIleUc4"><img width="140px" src="https://i.ytimg.com/vi/I80iaIleUc4/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Dwrs__PdML4"><img width="140px" src="https://i.ytimg.com/vi/Dwrs__PdML4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Dwrs__PdML4">Longest Substring Without Repeating Characters - Leetcode 3 - Python</a><br/>Jan 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=I80iaIleUc4"><img width="140px" src="https://i.ytimg.com/vi/I80iaIleUc4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=I80iaIleUc4">Reorder List - Leetcode 143 - Python</a><br/>Jan 15, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=YXPLBGopnio"><img width="140px" src="https://i.ytimg.com/vi/YXPLBGopnio/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YXPLBGopnio">Remove Nth Node From End of List - Leetcode 19 - Python</a><br/>Jan 13, 2023</td></tr></table>
@@ -35,8 +37,6 @@
 <td><a href="https://www.youtube.com/watch?v=NGZ8ef8Q_hE">Merge K Sorted Lists - Leetcode 23 - Python</a><br/>Jan 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=9mew5FHq260"><img width="140px" src="https://i.ytimg.com/vi/9mew5FHq260/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9mew5FHq260">Merge Two Sorted Lists - Leetcode 21 - Python</a><br/>Jan 9, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pUCLZM7bIeo"><img width="140px" src="https://i.ytimg.com/vi/pUCLZM7bIeo/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pUCLZM7bIeo">Linked List Cycle - Leetcode 141 - Python</a><br/>Jan 6, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Where To Reach Me
