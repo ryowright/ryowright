@@ -27,7 +27,9 @@
 * <a href="https://www.educative.io/module/advanced-concepts-in-python" target="_blank" rel="noopener noreferrer">Advanced Concepts in Python</a> on Educative.io
 
 # 📺 Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=3jK-C7uXOhQ"><img width="140px" src="https://i.ytimg.com/vi/3jK-C7uXOhQ/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=TexmKvw-rco"><img width="140px" src="https://i.ytimg.com/vi/TexmKvw-rco/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=TexmKvw-rco">Valid Parentheses - Leetcode 20 - Python</a><br/>Jan 28, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=3jK-C7uXOhQ"><img width="140px" src="https://i.ytimg.com/vi/3jK-C7uXOhQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3jK-C7uXOhQ">Group Anagrams - Leetcode 49 - Python</a><br/>Jan 26, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=KmJkBmGhDRg"><img width="140px" src="https://i.ytimg.com/vi/KmJkBmGhDRg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KmJkBmGhDRg">Valid Anagram - Leetcode 242 - Python</a><br/>Jan 24, 2023</td></tr></table>
@@ -35,8 +37,6 @@
 <td><a href="https://www.youtube.com/watch?v=uT-HZg0ezB0">Minimum Window Substring - Leetcode 76 - Python</a><br/>Jan 22, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lRRBXP-fHow"><img width="140px" src="https://i.ytimg.com/vi/lRRBXP-fHow/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lRRBXP-fHow">Longest Repeating Character Replacement - Leetcode 424 - Python</a><br/>Jan 20, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=Dwrs__PdML4"><img width="140px" src="https://i.ytimg.com/vi/Dwrs__PdML4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Dwrs__PdML4">Longest Substring Without Repeating Characters - Leetcode 3 - Python</a><br/>Jan 16, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Where To Reach Me
