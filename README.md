@@ -27,7 +27,9 @@
 * <a href="https://www.educative.io/module/advanced-concepts-in-python" target="_blank" rel="noopener noreferrer">Advanced Concepts in Python</a> on Educative.io
 
 # 📺 Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=EXBgSRhPkNU"><img width="140px" src="https://i.ytimg.com/vi/EXBgSRhPkNU/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yzfpdUs4Yk0"><img width="140px" src="https://i.ytimg.com/vi/yzfpdUs4Yk0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yzfpdUs4Yk0">Palindromic Substrings   Leetcode 647   Python</a><br/>Feb 16, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=EXBgSRhPkNU"><img width="140px" src="https://i.ytimg.com/vi/EXBgSRhPkNU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EXBgSRhPkNU">Longest Palindromic Substring - Leetcode 5 - Python</a><br/>Feb 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6JuFd2AOoxk"><img width="140px" src="https://i.ytimg.com/vi/6JuFd2AOoxk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6JuFd2AOoxk">What is NoSQL &lpar;Non-relational Database&rpar;?</a><br/>Feb 7, 2023</td></tr></table>
@@ -35,8 +37,6 @@
 <td><a href="https://www.youtube.com/watch?v=1xmWkMSUZZM">What is a Relational Database? &lpar;SQL&rpar;</a><br/>Feb 3, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=8O9LVbuUoic"><img width="140px" src="https://i.ytimg.com/vi/8O9LVbuUoic/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8O9LVbuUoic">What is a REST API?</a><br/>Jan 31, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=TexmKvw-rco"><img width="140px" src="https://i.ytimg.com/vi/TexmKvw-rco/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=TexmKvw-rco">Valid Parentheses - Leetcode 20 - Python</a><br/>Jan 28, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Where To Reach Me
