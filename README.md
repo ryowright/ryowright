@@ -28,7 +28,7 @@
 
 # 📺 Latest YouTube Videos
 <!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=yzfpdUs4Yk0"><img width="140px" src="https://i.ytimg.com/vi/yzfpdUs4Yk0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yzfpdUs4Yk0">Palindromic Substrings   Leetcode 647   Python</a><br/>Feb 16, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=yzfpdUs4Yk0">Palindromic Substrings - Leetcode 647 - Python</a><br/>Feb 16, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=EXBgSRhPkNU"><img width="140px" src="https://i.ytimg.com/vi/EXBgSRhPkNU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EXBgSRhPkNU">Longest Palindromic Substring - Leetcode 5 - Python</a><br/>Feb 13, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=6JuFd2AOoxk"><img width="140px" src="https://i.ytimg.com/vi/6JuFd2AOoxk/mqdefault.jpg"></a></td>
