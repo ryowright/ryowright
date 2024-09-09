@@ -27,7 +27,9 @@
 * <a href="https://www.educative.io/module/advanced-concepts-in-python" target="_blank" rel="noopener noreferrer">Advanced Concepts in Python</a> on Educative.io
 
 # 📺 Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4ObRFBg2sNg"><img width="140px" src="https://i.ytimg.com/vi/4ObRFBg2sNg/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-jw3xrm2rx4"><img width="140px" src="https://i.ytimg.com/vi/-jw3xrm2rx4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-jw3xrm2rx4">Tech News Report: Elon Musk Dominates Space | Google’s AI Photo Revolution | AI Music Scheme Exposed</a><br/>Sep 9, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=4ObRFBg2sNg"><img width="140px" src="https://i.ytimg.com/vi/4ObRFBg2sNg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4ObRFBg2sNg">Why ChatGPT Can&#39;t Count Properly</a><br/>Sep 6, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=p_pD4YH3X9s"><img width="140px" src="https://i.ytimg.com/vi/p_pD4YH3X9s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=p_pD4YH3X9s">What Github Discovered About AI in Software Development</a><br/>Sep 3, 2024</td></tr></table>
@@ -35,8 +37,6 @@
 <td><a href="https://www.youtube.com/watch?v=ioHWOb8njDo">Maximum Depth of Binary Tree - Leetcode 104 - Python</a><br/>Feb 18, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=yzfpdUs4Yk0"><img width="140px" src="https://i.ytimg.com/vi/yzfpdUs4Yk0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yzfpdUs4Yk0">Palindromic Substrings - Leetcode 647 - Python</a><br/>Feb 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=EXBgSRhPkNU"><img width="140px" src="https://i.ytimg.com/vi/EXBgSRhPkNU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EXBgSRhPkNU">Longest Palindromic Substring - Leetcode 5 - Python</a><br/>Feb 13, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Where To Reach Me
