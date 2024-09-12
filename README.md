@@ -27,7 +27,9 @@
 * <a href="https://www.educative.io/module/advanced-concepts-in-python" target="_blank" rel="noopener noreferrer">Advanced Concepts in Python</a> on Educative.io
 
 # 📺 Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=cYlliozkPXE"><img width="140px" src="https://i.ytimg.com/vi/cYlliozkPXE/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=KtTv4SwWQr4"><img width="140px" src="https://i.ytimg.com/vi/KtTv4SwWQr4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KtTv4SwWQr4">Why Apple Now Owes $14 BILLION to Ireland</a><br/>Sep 12, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=cYlliozkPXE"><img width="140px" src="https://i.ytimg.com/vi/cYlliozkPXE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cYlliozkPXE">Man Arrested for $10 Million Scheme With AI-Generated Music</a><br/>Sep 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=SNGphOG9FcM"><img width="140px" src="https://i.ytimg.com/vi/SNGphOG9FcM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SNGphOG9FcM">Google’s AI Powered &quot;Ask Photos&quot; Will Know Everything About You</a><br/>Sep 10, 2024</td></tr></table>
@@ -35,8 +37,6 @@
 <td><a href="https://www.youtube.com/watch?v=mTvB6pl4XAg">Elon Musk Now Controls Two Thirds of Space!</a><br/>Sep 10, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-jw3xrm2rx4"><img width="140px" src="https://i.ytimg.com/vi/-jw3xrm2rx4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-jw3xrm2rx4">Tech News Report: Elon Musk Dominates Space | Google’s AI Photo Revolution | AI Music Scheme Exposed</a><br/>Sep 9, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4ObRFBg2sNg"><img width="140px" src="https://i.ytimg.com/vi/4ObRFBg2sNg/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4ObRFBg2sNg">Why ChatGPT Can&#39;t Count Properly</a><br/>Sep 6, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Where To Reach Me
