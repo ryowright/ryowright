@@ -27,16 +27,16 @@
 * <a href="https://www.educative.io/module/advanced-concepts-in-python" target="_blank" rel="noopener noreferrer">Advanced Concepts in Python</a> on Educative.io
 
 # 📺 Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=M_ZfikdXUgM"><img width="140px" src="https://i.ytimg.com/vi/M_ZfikdXUgM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=M_ZfikdXUgM">Apple Airpods can Now be Used as HEARING AIDS!</a><br/>Sep 19, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=pi9atqsfqa0"><img width="140px" src="https://i.ytimg.com/vi/pi9atqsfqa0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pi9atqsfqa0">Amazon Employees Are Now REQUIRED to Work In-Person 5 Days per Week!</a><br/>Sep 18, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=PYpWy5lnbRE"><img width="140px" src="https://i.ytimg.com/vi/PYpWy5lnbRE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=PYpWy5lnbRE">OpenAI&#39;s o1 Model Crushes Math and Coding Benchmarks!</a><br/>Sep 17, 2024</td></tr></table>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/shorts/M_ZfikdXUgM"><img width="140px" src="https://i.ytimg.com/vi/M_ZfikdXUgM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/M_ZfikdXUgM">Apple Airpods can Now be Used as HEARING AIDS!</a><br/>Sep 19, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/pi9atqsfqa0"><img width="140px" src="https://i.ytimg.com/vi/pi9atqsfqa0/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/pi9atqsfqa0">Amazon Employees Are Now REQUIRED to Work In-Person 5 Days per Week!</a><br/>Sep 18, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/PYpWy5lnbRE"><img width="140px" src="https://i.ytimg.com/vi/PYpWy5lnbRE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/PYpWy5lnbRE">OpenAI&#39;s o1 Model Crushes Math and Coding Benchmarks!</a><br/>Sep 17, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=bds0xrwXsf4"><img width="140px" src="https://i.ytimg.com/vi/bds0xrwXsf4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bds0xrwXsf4">OpenAI&#39;s New o1 Model Destroys Math and Coding Benchmarks!</a><br/>Sep 16, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=uzVBbzqEBRE"><img width="140px" src="https://i.ytimg.com/vi/uzVBbzqEBRE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uzVBbzqEBRE">Apple Owes $14 BILLION in Taxes!</a><br/>Sep 13, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/uzVBbzqEBRE"><img width="140px" src="https://i.ytimg.com/vi/uzVBbzqEBRE/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/uzVBbzqEBRE">Apple Owes $14 BILLION in Taxes!</a><br/>Sep 13, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Where To Reach Me
