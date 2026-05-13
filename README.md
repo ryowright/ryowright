@@ -27,7 +27,9 @@
 * <a href="https://www.educative.io/module/advanced-concepts-in-python" target="_blank" rel="noopener noreferrer">Advanced Concepts in Python</a> on Educative.io
 
 # 📺 Latest YouTube Videos
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=y25st1Oq27s"><img width="140px" src="https://i.ytimg.com/vi/y25st1Oq27s/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=xC4bAg2jT4s"><img width="140px" src="https://i.ytimg.com/vi/xC4bAg2jT4s/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xC4bAg2jT4s">Building a SaaS in 30 Days - Day 8 - Narrowing Down my Target Audience</a><br/>May 13, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=y25st1Oq27s"><img width="140px" src="https://i.ytimg.com/vi/y25st1Oq27s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=y25st1Oq27s">Building a SaaS in 30 Days - Day 4</a><br/>May 10, 2026</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=niDPJ2AIijs"><img width="140px" src="https://i.ytimg.com/vi/niDPJ2AIijs/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=niDPJ2AIijs">Can I Build a SaaS in 30 Days? | Day 1</a><br/>May 7, 2026</td></tr></table>
@@ -35,8 +37,6 @@
 <td><a href="https://www.youtube.com/shorts/M_ZfikdXUgM">Apple Airpods can Now be Used as HEARING AIDS!</a><br/>Sep 19, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/pi9atqsfqa0"><img width="140px" src="https://i.ytimg.com/vi/pi9atqsfqa0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/pi9atqsfqa0">Amazon Employees Are Now REQUIRED to Work In-Person 5 Days per Week!</a><br/>Sep 18, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/shorts/PYpWy5lnbRE"><img width="140px" src="https://i.ytimg.com/vi/PYpWy5lnbRE/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/PYpWy5lnbRE">OpenAI&#39;s o1 Model Crushes Math and Coding Benchmarks!</a><br/>Sep 17, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 
 # 📫 Where To Reach Me
